@@ -4,7 +4,7 @@
 
 namespace LibraryParadigms
 {
-    // this program computes the factorial of numbers
+    // this program computes the factorial of numbersgkjgkjhjkhgkjh
     class Program
     {
         public static int factorial(int n)
