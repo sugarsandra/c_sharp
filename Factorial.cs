@@ -19,6 +19,7 @@ namespace LibraryParadigms
             }
         }
         static void Main(string[] args)
+            // this is main
         {
             Console.WriteLine("Dose enan thetiko akeraio");
             int x = Convert.ToInt32(Console.ReadLine());
